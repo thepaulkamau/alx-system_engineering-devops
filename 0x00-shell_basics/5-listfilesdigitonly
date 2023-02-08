@@ -1,2 +1,2 @@
-ls -la id
+#!/bin/bash
 ls -lan
